@@ -44,3 +44,209 @@ hr {
   border-bottom: 60px solid transparent;
   border-left: 60px solid gray;
 }
+
+// CAT
+/* .cat {
+  position: relative;
+}
+
+.head {
+  width: 100px;
+  height: 100px;
+  background-color: gray;
+  border-radius: 50%;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
+
+.eye {
+  width: 20px;
+  height: 20px;
+  background-color: white;
+  border-radius: 50%;
+  position: absolute;
+  top: 35%;
+  left: 15%;
+}
+
+.eye.right {
+  left: auto;
+  right: 15%;
+}
+
+.body {
+  width: 150px;
+  height: 100px;
+  background-color: gray;
+  position: absolute;
+  top: 100px;
+  left: 25px;
+  border-radius: 50%;
+}
+
+.tail {
+  width: 10px;
+  height: 100px;
+  background-color: gray;
+  position: absolute;
+  top: 100px;
+  left: 175px;
+  transform: rotate(45deg);
+} */
+
+// FISH
+
+/* .fish {
+  position: relative;
+}
+
+.body {
+  width: 200px;
+  height: 100px;
+  background-color: orange;
+  border-radius: 50%;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
+
+.tail {
+  width: 0;
+  height: 0;
+  border-top: 50px solid transparent;
+  border-bottom: 50px solid transparent;
+  border-left: 50px solid orange;
+  position: absolute;
+  top: 50px;
+  left: 0;
+}
+
+.eye {
+  width: 20px;
+  height: 20px;
+  background-color: white;
+  border-radius: 50%;
+  position: absolute;
+  left: 10%;
+  top: 10%;
+} */
+
+// BIRD
+
+.bird {
+  position: relative;
+}
+
+.body {
+  width: 150px;
+  height: 100px;
+  background-color: blue;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  border-radius: 75% 75% 60% 60%;
+}
+
+.head {
+  width: 50px;
+  height: 50px;
+  background-color: blue;
+  position: absolute;
+  top: 35px;
+  left: 150px;
+  border-radius: 50%;
+}
+
+.wing {
+  width: 100px;
+  height: 50px;
+  background-color: lightblue;
+  position: absolute;
+  top: 75px;
+  left: 75px;
+  border-radius: 50%;
+  transform: rotate(-30deg);
+}
+
+.beak {
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-top: 10px solid orange;
+  position: absolute;
+  top: 50px;
+  left: 192px;
+}
+
+.eye {
+  width: 10px;
+  height: 10px;
+  background-color: white;
+  position: absolute;
+  top: 45px;
+  left: 175px;
+  border-radius: 50%;
+}
+
+// TURTLE
+/* .turtle {
+  position: relative;
+}
+
+.body {
+  width: 150px;
+  height: 100px;
+  background-color: green;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  border-radius: 50%;
+}
+
+.head {
+  width: 50px;
+  height: 50px;
+  background-color: green;
+  position: absolute;
+  top: 75px;
+  left: 0;
+  border-radius: 50%;
+}
+
+.leg {
+  width: 20px;
+  height: 40px;
+  background-color: brown;
+  position: absolute;
+}
+
+.leg.top-left {
+  top: 50px;
+  left: 45px;
+}
+
+.leg.top-right {
+  top: 50px;
+  left: 165px;
+}
+
+.leg.bottom-left {
+  top: 110px;
+  left: 45px;
+}
+
+.leg.bottom-right {
+  top: 110px;
+  left: 165px;
+}
+
+.tail {
+  width: 20px;
+  height: 20px;
+  background-color: brown;
+  position: absolute;
+  top: 90px;
+  left: 200px;
+} */
